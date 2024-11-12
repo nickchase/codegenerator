@@ -1,0 +1,6 @@
+flask
+pytest
+pytest-json-report
+openai
+requests
+python-dotenv
